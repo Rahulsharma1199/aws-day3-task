@@ -1,0 +1,25 @@
+                              AWS Services Summary
+Service     Use                                Example
+EC2         Create virtual servers             Hosting a web application
+S3          Store files                        Storing image backups
+IAM         Manage users and permissions       Giving limited access to a developer
+Route 53    Manage domain and DNS              Connecting www.myapp.com to EC2
+Lightsail   Simple VPS hosting platform        Hosting a WordPress blog
+
+
+
+
+1. EC2 :- (Elastic Compute Cloud) This service is used to create virtual servers in the cloud.
+          Example:- Hosting a web application.
+
+2️. S3 :- (Simple Storage Service) This is a storage service used to store files safely and at scale.
+        Example:- Storing images, videos, or backups.
+
+3️. IAM :-(Identity and Access Management) IAM is used to manage users, roles, and permissions.
+         Example:- Giving limited access to a developer.
+
+4️. Route 53 :- This service is used to manage domains and DNS records.
+               Example:- Connecting a domain name to an EC2 server.
+
+5️. Lightsail :-A simple VPS hosting service. Easy for beginners.
+               Example:- Hosting a WordPress blog.
